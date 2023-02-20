@@ -1,0 +1,23 @@
+.bg-default-image {
+  background-image: url("/images/coffee.jpg");
+  background-size: 100%;
+  background-position: left;
+  height: 150px;
+  text-shadow: 2px 2px 8px #000;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.active {
+  /* box-shadow: 0 0 14px 4px #3d3d42 inset; */
+  background-color: #6c757d;
+  color: white !important;
+
+  border-radius: 30px;
+}
+
+.dashboard {
+  --bs-gutter-x: 0 !important;
+}
