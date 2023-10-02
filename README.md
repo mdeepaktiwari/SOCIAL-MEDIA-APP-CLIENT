@@ -3,12 +3,12 @@
 Welcome to the frontend repository of MySocialMediaSite, a Next.js Bootstrap-based social media platform. This repository contains the client-side code for the website.
 
 ### Features
-**User Authentication**: Secure user registration and login functionality.
-**User Profiles**: Users can create and customize their profiles.
-**Friend Requests**: Send and accept friend requests.
-**News Feed**: View posts from friends and interact with them (like, comment).
-**Notifications**: Receive notifications for friend requests, likes, and comments.
-**Responsive Design**: Ensures a seamless experience on various devices.
+- **User Authentication**: Secure user registration and login functionality.
+- **User Profiles**: Users can create and customize their profiles.
+- **Friend Requests**: Send and accept friend requests.
+- **News Feed**: View posts from friends and interact with them (like, comment).
+- **Notifications**: Receive notifications for friend requests, likes, and comments.
+- **Responsive Design**: Ensures a seamless experience on various devices.
 
 #### Getting Started
 Before you begin, make sure you have the following prerequisites:
