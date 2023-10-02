@@ -13,26 +13,27 @@ Welcome to the frontend repository of MySocialMediaSite, a Next.js Bootstrap-bas
 #### Getting Started
 Before you begin, make sure you have the following prerequisites:
 
-Node.js and npm installed on your machine.
+Node.js and npm are installed on your machine.
 
 #### Installation
 1. Clone this repository:
 git clone https://github.com/mdeepaktiwari/SOCIAL-MEDIA-APP-CLIENT.git
-cd into directory
 
-2. Install the dependencies:
+2. cd into directory
+
+3. Install the dependencies:
 npm install
 
-3.Create a .env.local file in the root directory and configure your environment variables
+4. Create a .env.local file in the root directory and configure your environment variables
 
-4. Start the development server:
+5. Start the development server:
 npm run dev
 
 #### Usage
 Access the application in your browser by navigating to http://localhost:3000.
 
 #### Deployment
-To deploy the frontend of MySocialMediaSite, you can use platforms like Vercel, Netlify, or GitHub Pages, depending on your preference. Be sure to set up environment variables in your deployment platform to match those in the .env.local file.
+To deploy the frontend of the social media app, you can use platforms like Vercel, Netlify, or GitHub Pages, depending on your preference. Set up environment variables in your deployment platform to match those in the .env.local file.
 
 #### Contributing
-We welcome contributions to enhance the functionality and user experience of MySocialMediaSite. Feel free to open issues or submit pull requests.
+We welcome contributions to enhance the social media app's functionality and user experience. Feel free to open issues or submit pull requests.
