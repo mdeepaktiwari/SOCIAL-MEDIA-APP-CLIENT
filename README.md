@@ -21,8 +21,7 @@ git clone https://github.com/mdeepaktiwari/SOCIAL-MEDIA-APP-CLIENT.git
 
 2. cd into directory
 
-3. Install the dependencies:
-npm install
+3. Install the dependencies: npm install
 
 4. Create a .env.local file in the root directory and configure your environment variables
 
